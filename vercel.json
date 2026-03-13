@@ -1,7 +1,0 @@
-{
-  "cleanUrls": true,
-  "trailingSlash": false,
-  "rewrites": [
-    { "source": "/Result/Dashboard/Default", "destination": "/Result/Dashboard/Default.html" }
-  ]
-}
