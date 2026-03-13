@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/Result/Dashboard/Default", "destination": "/Result/Dashboard/Default.html" },
+    { "source": "/", "destination": "/Result/Dashboard/Default.html" }
+  ]
+}
